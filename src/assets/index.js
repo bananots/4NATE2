@@ -11,17 +11,21 @@ import picture8 from './p8.jpg'
 import picture9 from './p9.jpg'
 import picture10 from './p10.jpg'
 
-
-
 import confetti from './confetti.gif'
-
 import CakeSVG from './svg/CakeSVG'
 
-
-
 export {
-    bg,
-    picture,
-    confetti,
-    CakeSVG
+  bg,
+  picture1,
+  picture2,
+  picture3,
+  picture4,
+  picture5,
+  picture6,
+  picture7,
+  picture8,
+  picture9,
+  picture10,
+  confetti,
+  CakeSVG
 }
