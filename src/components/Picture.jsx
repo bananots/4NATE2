@@ -26,7 +26,7 @@ function Picture() {
   const allImagesLoaded = loadedImages === images.length;
   return (
     <SectionWrapper>
-      <Link to="/present">
+      <Link to="/cake">
         <p className="absolute text-4xl font-bold text-customBlue inset-0 flex justify-center items-center text-center transform rotate-6 cursor-pointer">
           cie nathan udah tuaaaa!!!!!
         </p>
