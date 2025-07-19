@@ -12,7 +12,7 @@ import picture9 from './p9.jpg'
 import picture10 from './p10.jpg'
 
 import confetti from './confetti.gif'
-import CakeSVG from './svg/CakeSVG'
+import CakeSVG from './svg/CakeSVG.jsx'
 
 export {
   bg,
