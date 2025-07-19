@@ -1,4 +1,4 @@
-import bg from './bf.jpg'
+import bg from './bgg.jpg'
 
 import picture1 from './p1.jpeg'
 import picture2 from './p2.jpeg'
