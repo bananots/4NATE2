@@ -1,4 +1,4 @@
-@tailwind base;
+e@tailwind base;
 @tailwind components;
 @tailwind utilities;
 
@@ -12,7 +12,7 @@
 
 body {
   margin: 0;
-  background-image: url('./assets/bg.jpg');
+  background-image: url('./assets/bgg.jpg');
   background-size: cover; 
   background-repeat: no-repeat; 
   background-attachment: fixed; 
